@@ -1,0 +1,6 @@
+C:\Users\bhekanimasinga\Documents\ass1Assessment3\ass1Assessment3\bin\Debug\ass1Assessment3.exe.config
+C:\Users\bhekanimasinga\Documents\ass1Assessment3\ass1Assessment3\bin\Debug\ass1Assessment3.exe
+C:\Users\bhekanimasinga\Documents\ass1Assessment3\ass1Assessment3\bin\Debug\ass1Assessment3.pdb
+C:\Users\bhekanimasinga\Documents\ass1Assessment3\ass1Assessment3\obj\Debug\ass1Assessment3.csproj.CoreCompileInputs.cache
+C:\Users\bhekanimasinga\Documents\ass1Assessment3\ass1Assessment3\obj\Debug\ass1Assessment3.exe
+C:\Users\bhekanimasinga\Documents\ass1Assessment3\ass1Assessment3\obj\Debug\ass1Assessment3.pdb
